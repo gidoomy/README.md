@@ -1,4 +1,4 @@
-👋 Hi, I'm Adham Kabeel, An Energetic, motivated and Committed Business Information Systems (BIS) student
+Hi, I'm Adham Kabeel, An Energetic, motivated and Committed Business Information Systems (BIS) student
 at the Arab Academy for Science and Technology also currently undertaking a dual degree in the University of Northampton 
 in the United Kingdom here at AASTMT.
 
@@ -9,4 +9,4 @@ driving innovation as well as gaining expertise in the field of information syst
 Actively contributing to projects, I bring a unique blend of skills—ranging from system analysis and data analysis to crafting dynamic web interfaces. 
 My goal is to make a positive impact through technology, leveraging both my academic knowledge and practical programming skills.
 
-🌐 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and drop me a message. 🚀
+Let's connect and collaborate on exciting projects! Feel free to explore my repositories and drop me a message.
